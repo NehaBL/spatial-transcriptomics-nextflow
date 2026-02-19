@@ -1,0 +1,16 @@
+# Nextflow
+work/
+.nextflow/
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# AnnData
+*.h5ad
+
+# System files
+.DS_Store
+Thumbs.db
