@@ -1,4 +1,4 @@
-# Spatial Transcriptomics Nextflow Pipeline (10x Visium)
+# ML-Ready Spatial Multi-Omics Integration Framework (10x Visium)
 
 Reproducible spatial transcriptomics analysis pipeline built using:
 
@@ -97,6 +97,11 @@ The observed gene expression patterns were consistent with expected tumor microe
 - Dependency tracking via `requirements.txt`
 
 This project demonstrates integration of biological reasoning with computational workflow engineering.
+
+---
+
+## Machine Learning Integration
+This pipeline is specifically engineered to transform raw spatial transcriptomics data into standardized, ML-ready tensors. It facilitates the construction of spatial neighbor graphs, providing the necessary structural input for Graph Attention Networks and Transformer-based architectures to analyze cell-cell interaction patterns
 
 ---
 
